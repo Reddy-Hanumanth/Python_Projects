@@ -1,0 +1,13 @@
+we are using virtual environment 
+   *  A virtual environment (venv) is an isolated workspace for a Python project.
+   *  When you activate a virtual environment and install packages (pip install xyz), those packages are installed only inside that environment, not globally.
+   *  Important clarification (common confusion):
+   *  When you deactivate the virtual environment:
+   *  The installed packages do NOT disappear or get deleted
+   *  They are simply not accessible until you activate that environment again
+
+activate => venv\Scripts\activate
+Deactivate => deactivate
+
+
+we installed qrcode and pillow
