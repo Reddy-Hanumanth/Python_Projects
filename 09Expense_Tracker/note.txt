@@ -1,0 +1,9 @@
+create file to save data (or track information)
+
+get information of exxpenditure like date, purpose,amount
+
+save it in file
+
+view expenditure
+
+clear expenditure
