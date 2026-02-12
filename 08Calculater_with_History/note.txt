@@ -1,0 +1,9 @@
+calculation
+history
+show history 
+clear history 
+
+
+
+
+evel()  fucntion

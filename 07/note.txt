@@ -1,0 +1,34 @@
+IbHWSS
+
+
+1 => Project Idea
+
+2 => what are we building       
+                        headlines = list of words =>     fake + funny
+
+3 => How we building
+                    make list =>    subjects 1:Who 2:what, action 1:dances 2: war decalre, 
+
+4 => Concepts       
+                    make list  = To store groups of words like names, action, and places
+                    Random Moule = To pick one Item randomly from the list
+                    print  = To Show fake Headline on Screen
+                    input = To ask User if they want another Headline
+                    loop  = Repeat process untill user say "NO"
+                    string Concatenation or f- Strings
+
+
+5 => psedocode      
+                    import module
+                    Craete List of Subjects, Action and Places-all with Indian examples
+                    Use random.choice() to pick one word from each list
+                    Combine the words into a headline using string formatting 
+                    Print the headline to the user
+                    Ask the user if they want another headline
+                    If yes, repeat; if no, stop the program
+
+
+6 => Streching              adding some more features 
+                                Categories   sport, politices film
+                                ask user to save headline or not   
+                                  
